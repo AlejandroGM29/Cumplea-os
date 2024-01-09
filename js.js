@@ -1,4 +1,4 @@
-N = 20;
+N = 10;
 w3 = "http://www.w3.org/";
 svgNS = w3 + "2000/svg";
 xlinkNS = w3 + "1999/xlink";
